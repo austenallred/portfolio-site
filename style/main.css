@@ -20,6 +20,9 @@ img {
   max-width:100%;
 }
 
+h3 {
+  margin: 0 0 1em 0;
+}
 
 /***************************
 HEADING
@@ -107,7 +110,7 @@ footer {
 }
 
 /***************************
-PAGE PORTFOLIO
+PAGE: PORTFOLIO
 ***************************/
 
 #gallery {
@@ -116,6 +119,16 @@ PAGE PORTFOLIO
   list-style: none;
 }
 
+/***************************
+PAGE: ABOUT
+***************************/
+
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 4%;
+}
 
 /***************************
 colors
